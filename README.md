@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**shahadat-islam0/shahadat-islam0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Shahadat 🚀
 
 Embarking on my GitHub adventure like a noob hunter in Demon Slayer – zero kills yet, but sharpening my blade! No projects? No problem. I'm here to learn, laugh, and level up in the world of code and creativity.
 
